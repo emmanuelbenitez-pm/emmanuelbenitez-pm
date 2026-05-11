@@ -1,8 +1,8 @@
 Hi, I'm Emmanuel Benitez 👋
 
-🎯 Senior Project Manager | Cloud, Data & Digital Transformation
+🎯 Technology Program Manager | AI, Cloud & Digital Transformation
 
-I lead cloud, data, and digital transformation programs that help organizations scale technology delivery and bridge business strategy with execution.
+I lead technology, cloud, and AI-driven transformation initiatives that help organizations modernize operations, improve decision-making, and scale execution.
 
 💼 What I Do
 - Lead complex, multi-year technology programs (Cloud, Data, Banking)
